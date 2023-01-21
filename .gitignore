@@ -1,0 +1,4 @@
+.idea/
+server/env/
+server/static/
+node_modules/
